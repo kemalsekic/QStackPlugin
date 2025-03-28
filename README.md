@@ -1,6 +1,6 @@
 # QStack Plugin
 
-![Entry screenshot](assets\entry.png)
+![Entry screenshot](assets/entry.png)
 
 ## Overview
 
@@ -44,8 +44,8 @@ Feel free to contribute to this project by submitting issues or pull requests. P
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-![Alias menu screenshot](assets\aliasMenu.png)
+![Alias menu screenshot](assets/aliasMenu.png)
 
-![Git aliases screenshot](assets\gitCmds.png)
+![Git aliases screenshot](assets/gitCmds.png)
 
-![Fuzzy search screenshot](assets\fuzzySearch.png)
+![Fuzzy search screenshot](assets/fuzzySearch.png)
