@@ -2,6 +2,7 @@
 Controllers/transferFilesToRepo.ps1
 custom2.cmd
 Controllers/data/aliases copy.json
+kemals_aliases.cmd
 
 # Common files to ignore
 *.log
