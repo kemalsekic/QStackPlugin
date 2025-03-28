@@ -1,0 +1,32 @@
+# Specific files to exclude
+Controllers/transferFilesToRepo.ps1
+custom2.cmd
+Controllers/data/aliases copy.json
+
+# Common files to ignore
+*.log
+*.bak
+*.tmp
+*.temp
+*.cache
+
+# VS Code directories
+.vscode/
+.vs/
+
+# PowerShell module files
+*.psm1.bak
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temp directories
+[Tt]emp/
+[Tt]mp/

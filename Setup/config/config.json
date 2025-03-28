@@ -1,0 +1,10 @@
+{
+  "sourcePath": "QStackInstall.ps1",
+  "outputPath": "bin/QStackInstall.exe",
+  "conversionTool": "PS2EXE",
+  "options": {
+    "icon": "QStackLogo.ico",
+    "noConsole": true,
+    "force": true
+  }
+}
