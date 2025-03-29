@@ -123,7 +123,7 @@ try {
         Write-Log "WARNING: No files were copied to the destination. Something went wrong." -LogLevel "WARNING"
     }
     else {
-        Write-Log "Successfully copied $copiedFiles files to $destinationPluginFolder"
+        Write-Log "Successfully copied $copiedFiles of $totalFiles files to $destinationPluginFolder"
     }
 }
 catch {
